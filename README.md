@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![ezgif com-video-to-gif (13)](https://github.com/AbdurrahmanVarol/react-multi-step-form/assets/96303254/213df775-1b1a-405b-aa41-5462ef8a4724)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
